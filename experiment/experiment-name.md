@@ -1,1 +1,1 @@
-## Experiment name
+## Velocity analysis of Scotch Yoke Mechanism
