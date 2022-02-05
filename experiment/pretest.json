@@ -1,39 +1,89 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question":"Velocity of reciprocating part is maximum for scotch yoke mechanism when crank angle is ?",
+        "answers": {
+          "a": "0<sup>o</sup>",
+          "b": "90<sup>o</sup>",
+          "c": "30<sup>o</sup>",
+          "d": "60<sup>o</sup>"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Amplitude of velocity of reciprocating part of scotch yoke mechanism depends on?",
+        "answers": {
+          "a": "crank length only",
+          "b": "angular velocity of crank only",
+          "c": "both crank length and angular velocity of crank",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "c",
+        "difficulty": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "Phase difference between displacement and velocity of reciprocating part in scotch yoke mechanism is 90<sup>o</sup>",
+        "answers": {
+          "a": "false",
+          "b": "true"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "For a crank length of 10cm rotating at 1rad/s what is the maximum velocity of reciprocating part",
+        "answers": {
+          "a": "20cm/s",
+          "b": "10cm/s)",
+          "c": "5cm/s",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "Length of crank is equivalent to ",
+        "answers": {
+          "a": "phase lag of SHM",
+          "b": "amplitude of SHM",
+          "c": "frequency of oscillation in SHM",
+          "d": "None of These"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
+      }
+    ]
+  }
+  
